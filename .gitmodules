@@ -1,0 +1,9 @@
+[submodule "LR91"]
+	path = LR91
+	url = https://github.com/AndrewC19/LR91
+[submodule "covasim_case_study"]
+	path = covasim_case_study
+	url = https://github.com/AndrewC19/covasim_case_study/
+[submodule "poisson-process"]
+	path = poisson-process
+	url = https://github.com/CITCOM-project/poisson-process.git
